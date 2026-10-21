@@ -1,0 +1,4 @@
+This is a fictional project for ICT Task 07.
+We are studying the connection between study hours and stress level.
+No real student data is used, only mock examples for class activity.
+Team will use GitHub to track all changes.
